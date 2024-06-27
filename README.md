@@ -32,6 +32,6 @@ If you're looking for someone who truly dedicates themselves to creating interfa
 - LinkedIn: https://www.linkedin.com/in/denis-marushchak/
 - Twitter: @denisdenis_
 - Portfolio: https://dmrk.dev
-- Email: denismar322@gmail.com
+- Email: denis@dmrk.dev
 
 If you're interested in teaming up for a project, talking about web development, or simply want to have a casual conversation, don't hesitate to contact me. Together, we can contribute to enhancing the web! 🚀
